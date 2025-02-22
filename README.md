@@ -30,8 +30,7 @@ The **Contact Identifier API** is a backend service designed to manage and link 
 
 3. **Create a `.env` File** and add the following:
    ```env
-   MONGO_URI=<your_mongodb_connection_string>
-   PORT=3000
+   
    ```
 
 4. **Start the Server**
