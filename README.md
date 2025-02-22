@@ -28,10 +28,8 @@ The **Contact Identifier API** is a backend service designed to manage and link 
    npm install
    ```
 
-3. **Create a `.env` File** and add the following:
-   ```env
-   
-   ```
+3. **Create a `.env` File** 
+  
 
 4. **Start the Server**
    ```bash
